@@ -1,0 +1,23 @@
+.font-size{
+	font-size: 20px;
+}
+.progress{
+
+	height: 150px;
+	position: absolute;
+	z-index: 20;
+	background-color: transparent;
+	
+
+}
+
+
+@media screen and (max-width: 400px)
+  {
+      .font-size{
+	font-size: 16px;
+     }
+  }
+
+
+           
